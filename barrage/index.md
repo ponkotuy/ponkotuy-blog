@@ -1,4 +1,3 @@
-<link href="modest.css" rel="stylesheet">
 # バラージ解説
 
 ## 本文章の目的
