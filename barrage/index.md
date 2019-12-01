@@ -7,7 +7,7 @@
 おおむね重要な順番に並べたつもりなので、雰囲気だけ知りたい人は途中まで読んで切り上げるのを推奨します。
 
 ## ゲームの概要
-<img src="images/box.jpg" width="320px" alt="バラージ(BOX)">
+<img src="images/box.jpg" width="480px" alt="バラージ(BOX)" style="float:right">
 
 1-4人、120分のいわゆる重量級ボドゲです。
 あなたはエネルギー開発を行う企業のCEOとなり、
@@ -77,7 +77,8 @@
 エネルギーを使用してできることは主に2つがあります。
 
 ### 契約の履行
-<img src="images/contract.jpg" width="320px">
+<img src="images/contract.jpg" width="320px" alt="契約ボード" style="float:right">
+
 所持している企業契約を履行する、または共有の国家契約を即座に履行できます。
 左のコストを支払うと、右にある勝利点などの様々な恩恵を受けることができます。
 
@@ -112,6 +113,7 @@
 
 ### 建設ホイール
 右が建設ホイールです。
+
 <img src="images/own.jpg" width="480px" alt="建設ホイール">
 
 重機駒と技術タイルは消費するのではなく、建設ホイールに置かれます。
