@@ -8,7 +8,7 @@
 おおむね重要な順番に並べたつもりなので、雰囲気だけ知りたい人は途中まで読んで切り上げるのを推奨します。
 
 ## ゲームの概要
-<img src="images/box.webp" width="480px" alt="バラージ(BOX)" style="float:right">
+<img src="images/box.jpg" width="480px" alt="バラージ(BOX)" style="float:right">
 
 1-4人、120分のいわゆる重量級ボドゲです。
 あなたはエネルギー開発を行う企業のCEOとなり、
