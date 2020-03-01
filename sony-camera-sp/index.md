@@ -21,7 +21,7 @@ NFCにタッチするなどしてリモート撮影モードに入れます。�
 ## 一括転送
 一括転送に関しては試しておらずWebのヘルプガイドにあるのが全てです。
 
-https://helpguide.sony.net/ilc/1940/v1/ja/contents/TP0002656755.html
+[https://helpguide.sony.net/ilc/1940/v1/ja/contents/TP0002656755.html](https://helpguide.sony.net/ilc/1940/v1/ja/contents/TP0002656755.html)
 
 試してない理由はSONYのカメラでMENUから色々操作するのは結構面倒くさいことが分かっていて、これを常用する気にはなれなかったからです。あとこのヘルプガイド見ないとわからないというのもあります。宿とか家で撮ったやつを一括でスマホに転送する分には十分な印象です。
 
