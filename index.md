@@ -4,6 +4,9 @@
 ### プログラミング系
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
+### 旅行系
+- [横浜周辺観光地巡り](yokohama/index.md)
+
 ### ガジェット/カメラ
 - [オーディオ機器を色々買った話](audio/index.md)
 - [SONYのカメラをレンタルした](sony-camera-sp/index.md)
