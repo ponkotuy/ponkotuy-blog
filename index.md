@@ -5,7 +5,7 @@
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
 ### 旅行系
-- [ダムの話] (dum/index.md)
+- [ダムの話](dum/index.md)
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
