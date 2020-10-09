@@ -35,6 +35,22 @@
 
 撒き餌レンズはマウントアダプタ経由でないといけなそう。RPが最安なのはよい。R6は高いし値段安定するの待ち。
 
+## Nikon
+
+|Name|Price|Weight|
+|----|-----|------|
+|Z5|16万|675g|
+|NIKKOR Z 14-24mm F2.8|29万|650g|
+|NIKKOR Z 14-30mm F4|13万|485g|
+|LAOWA 10-18mm F4.5-5.6|11万|496g|
+|LAOWA 15mm F2|11万|500g|
+|LAOWA 9mm F5.6|11万|350g|
+|FTZ|3.1万|135g|
+|SAMYANG AF 14mm F2.8|6.6万|484g|
+|Nikkor 14mm F2.8|7.2万|670g|
+
+当て馬。CanonよりLAOWAの選択肢が多いとかはある
+
 ## Lマウント
 
 |Name|Price|Weight|
