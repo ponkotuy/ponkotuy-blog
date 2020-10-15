@@ -9,6 +9,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [広角ズームレンズ調査](wide-lens/index.md)
 - [フルサイズカメラ調査](fullsize/index.md)
 - [オーディオ機器を色々買った話](audio/index.md)
 - [SONYのカメラをレンタルした](sony-camera-sp/index.md)
