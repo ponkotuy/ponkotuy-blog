@@ -158,8 +158,8 @@
 事実上関西では琵琶湖を巨大なダムとして水が賄われているわけであるが、ダムのように琵琶湖を活用する場合、滋賀県の湖岸における高波の被害や水位が下がると水が流出しない、いわゆる死水が非常に多い問題がある。ので、例えばほぼ全量を淀川に依存している神戸市の資金で、琵琶湖に堤防を建てたり出水部の改良を行うことで水源を確保することが実際に行われている。また、京都市内へは明治に作られた琵琶湖疎水が現在でも水道水の99%を供給している。
 
 <figure>
-<img src="images/biwako_sosui.jpg" width="480">
-<img src="images/biwako_sosui2.jpg" width="640">
+<img src="images/biwako_sosui.jpg" width="480px">
+<img src="images/biwako_sosui2.jpg" width="640px">
 <figcaption>琵琶湖疎水。左は滋賀県側から山を越えるトンネル、右は南禅寺境内の水路。</figcaption>
 </figure>
 
