@@ -4,61 +4,73 @@
 
 ## SONY
 
-|Name|Price|Weight|
-|----|-----|------|
-|α7C|21万|509g|
-|α7III|20万(CB3万)|650g|
-|COSINA 15mm F4.5|8.2万|298g|
-|COSINA 10mm F5.6|8.0万|375g|
-|SAMYANG AF 14mm F2.8|5.3万|505g|
-|LAOWA 15mm F2|11万|500g|
-|LAOWA 9mm F5.6|11万|350g|
-|LAOWA 10-18mm F4.5-5.6|11万|496g|
-|SONY 50mm F1.8|2万|186g|
+|Name|Price|Weight|AF/MF|
+|----|-----|------|-----|
+|α7C|21万|509g|-|
+|α7III|20万(CB3万)|650g|-|
+|COSINA 15mm F4.5|8.2万|298g|電子接点|
+|COSINA 10mm F5.6|8.0万|375g|電子接点|
+|SAMYANG AF 14mm F2.8|5.3万|505g|AF|
+|LAOWA 15mm F2|11万|500g|MF|
+|LAOWA 9mm F5.6|11万|350g|MF|
+|LAOWA 10-18mm F4.5-5.6|11万|496g|MF|
+|LAOWA 12mm F2.8|14万|610g|MF|
+|LAOWA 11mm F4.5|9.4万|254g|MF|
+|FE 12-24mm F2.8|32万|847g|AF|
+|FE 12-24mm F4|15万|565g|AF|
+|FE 50mm F1.8|2万|186g|AF|
 
 軽さならα7C + COSINA、明るさをとってSAMYANGでもいい。電子接点無くていいならLAOWAが一番選択肢の多いマウントでもある。撒き餌もかなり安い。無難of無難。値段下げたいならα7Sでもいいが値上がりが続いていて手を出しづらい。
 
 ## Canon
 
-|Name|Price|Weight|
-|----|-----|------|
-|RP|11万|485g|
-|R6|30万|680g|
-|SAMYANG AF 14mm F2.8|7.7万|484g|
-|RF24-105mm F4-7.1|4.8万|395g|
-|LAOWA 15mm F2|11万|500g|
-|EF-EOSR|1.2万|110g|
-|EF14mm F2.8L|7.5万|560g|
-|EF14mm F2.8 II|10.3万|645g|
-|EF50mm F1.8 II|0.7万|130g|
-|EF50mm F1.8 STM|1.2万|160g|
+|Name|Price|Weight|AF/MF|
+|----|-----|------|-----|
+|RP|11万|485g|-|
+|R6|30万|680g|-|
+|SAMYANG AF 14mm F2.8|6.8万|484g|AF|
+|RF24-105mm F4-7.1|4.8万|395g|AF|
+|LAOWA 15mm F2|11万|500g|MF|
+|LAOWA 12mm F2.8|14万|610g|MF|
+|EF-EOSR|1.2万|110g|-|
+|EF14mm F2.8L|7.5万|560g|AF|
+|EF14mm F2.8 II|10.3万|645g|AF|
+|EF11-24mm F4|23万|1180g|AF|
+|SIGMA 12-24mm F4.5-5.6|5.5万|670g|AF|
+|EF50mm F1.8 II|0.7万|130g|AF|
+|EF50mm F1.8 STM|1.2万|160g|AF|
 
 撒き餌レンズはマウントアダプタ経由でないといけなそう。RPが最安なのはよい。R6は高いし値段安定するの待ち。
 
 ## Nikon
 
-|Name|Price|Weight|
-|----|-----|------|
-|Z5|16万|675g|
-|NIKKOR Z 14-24mm F2.8|29万|650g|
-|NIKKOR Z 14-30mm F4|13万|485g|
-|LAOWA 10-18mm F4.5-5.6|11万|496g|
-|LAOWA 15mm F2|11万|500g|
-|LAOWA 9mm F5.6|11万|350g|
-|FTZ|3.1万|135g|
-|SAMYANG AF 14mm F2.8|6.6万|484g|
-|Nikkor 14mm F2.8|7.2万|670g|
+|Name|Price|Weight|AF/MF|
+|----|-----|------|-----|
+|Z5|16万|675g|-|
+|NIKKOR Z 14-24mm F2.8|29万|650g|AF|
+|NIKKOR Z 14-30mm F4|13万|485g|AF|
+|LAOWA 10-18mm F4.5-5.6|11万|496g|MF|
+|LAOWA 15mm F2|11万|500g|MF|
+|LAOWA 9mm F5.6|11万|350g|MF|
+|LAOWA 11mm F4.5|9.3万|254g|MF|
+|LAOWA 12mm F2.8|14万|610g|MF|
+|FTZ|3.1万|135g|-|
+|SAMYANG AF 14mm F2.8|6.6万|484g|AF|
+|Nikkor 14mm F2.8|7.2万|670g|AF|
+|SIGMA 12-24mm F4.5-5.6|5万|670g|AF|
+|TZE-01 E→Z|2.9万|41g|AF|
 
-当て馬。CanonよりLAOWAの選択肢が多いとかはある
+当て馬だと思っていたのだが、CanonよりLAOWAの選択肢が多いとかEマウントのAFがそのまま使えるアダプタとかあって気になる。本体重くない？
 
 ## Lマウント
 
-|Name|Price|Weight|
-|----|-----|------|
-|SIGMA fp|18万|422g|
-|LUMIX S5|25万|714g|
-|SIGMA 14-24mm F2.8|15万|795g|
-|LAOWA 11mm F4.5|9.4万|254g|
+|Name|Price|Weight|AF/MF|
+|----|-----|------|-----|
+|SIGMA fp|18万|422g|-|
+|LUMIX S5|25万|714g|-|
+|SIGMA 14-24mm F2.8|15万|795g|AF|
+|LAOWA 11mm F4.5|9.4万|254g|MF|
+|LAOWA 9mm F5.6|11万|350g|MF|
 
 SIGMA fpの軽さは超広角の795gに全部持っていかれる。とはいえズームレンズなので汎用性高いし撒き餌要らない前提で考えるとまあまあ？最新のLAOWAの11mm F4.5が競合を突き放すレベルの軽量さがあり、SIGMA fpとの組み合わせで他の追従を許さない軽量さを獲得しており気になる。
 
