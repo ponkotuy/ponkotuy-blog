@@ -1,5 +1,5 @@
 # ダムの基本的な話
-2020年ダムAdvent calendar3日目の記事。
+[ダムAdvent calendar](https://adventar.org/calendars/5056)3日目の記事。
 
 自分で立てたダムAdvent Calendarの1日目の記事にする予定で書かれた記事なのだが、後で作られたダムAdvent Calendarの方が集まりが良いように見えたのでそっちに合流し、書き溜めていた記事を放出することにした。
 
