@@ -9,6 +9,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [広角レンズのすすめ](lens-wide-angle/index.md)
 - [Z50をレンタルした話](z50/index.md)
 - [カメラ自動転送機能比較](camera-sp/index.md)
 - [広角ズームレンズ調査](wide-lens/index.md)
