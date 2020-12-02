@@ -4,8 +4,11 @@
 ### プログラミング系
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
-### 旅行系
+### ダム
+- [ダムの基本的な話](dam-202012/01-base/index.md)
 - [ダムの話](dum/index.md)
+
+### 旅行系
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
