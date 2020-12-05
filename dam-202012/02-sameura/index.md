@@ -1,6 +1,6 @@
 # 早明浦ダム
 ## なにこれ
-ダム Advent Calendar 2020の5日目です。早明浦ダムの話をします。
+[ダム Advent calendar 2020](https://adventar.org/calendars/5056) の5日目です。早明浦ダムの話をします。
 
 <figure>
 <img src="img/sameura.jpg" width="960px">
