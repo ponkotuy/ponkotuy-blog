@@ -1,4 +1,6 @@
 # 矢木沢ダム
+## なにこれ
+[ダム Advent calendar 2020](https://adventar.org/calendars/5056) の7日目です。矢木沢ダムの話をします。
 
 <figure>
 <img src="img/yagisawa.jpg" width="480px">
