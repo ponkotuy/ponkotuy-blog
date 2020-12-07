@@ -5,6 +5,7 @@
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
 ### ダム
+- [矢作ダム](dam-202012/06-yahagi/index.md)
 - [矢木沢ダム](dam-202012/03-yagisawa/index.md)
 - [早明浦ダム](dam-202012/02-sameura/index.md)
 - [ダムの基本的な話](dam-202012/01-base/index.md)
