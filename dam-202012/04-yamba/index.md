@@ -51,7 +51,7 @@
 
 <figure>
 <img src="img/bridge.jpg" width="640px">
-<figcaption>湖岸の集落を繋げる八ッ場大橋。こちらも金額面での寄与が多そうだ…</figcaption>
+<figcaption>湖岸の集落を繋げる八ッ場大橋。こちらも金額面での影響が多そうだ…</figcaption>
 </figure>
 
 ## 工学的知見
