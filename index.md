@@ -17,6 +17,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [Z6でNikon入門とフルサイズ入門した話](z6/index.md)
 - [広角レンズのすすめ](lens-wide-angle/index.md)
 - [Z50をレンタルした話](z50/index.md)
 - [カメラ自動転送機能比較](camera-sp/index.md)
