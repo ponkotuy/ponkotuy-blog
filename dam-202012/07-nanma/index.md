@@ -31,7 +31,7 @@
 
 <figure>
 <img src="img/pref_road.jpg" width="960px">
-<figcaption>ダムによって水没するために付け替えられた県道。ダム建設工事に必要な土砂を運ぶダンプカーがひっきりなしに行き交っていた</figcaption>
+<figcaption>ダムによって水没するために付け替えられた県道のトンネル。ダム建設工事に必要な土砂を運ぶダンプカーがひっきりなしに行き交っていた</figcaption>
 </figure>
 
 <figure>
