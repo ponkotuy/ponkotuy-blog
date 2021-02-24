@@ -18,7 +18,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
-- [α7Cをレンタルした話]
+- [α7C/α7IIIをレンタルした話](a7c-sp/index.md)
 - [2台目フルサイズ欲しい話](2nd-fullsize/index.md)
 - [カメラ遍歴](camera-history/index.md)
 - [ボケ量を稼ぐためのレンズ入門](bokeh/index.md)
