@@ -19,6 +19,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [XQDとCFexpressの比較](xqd-cfexpress/index.md)
 - [EOS RPをレンタルした話](eos-rp/index.md)
 - [α7C/α7IIIをレンタルした話](a7c-sp/index.md)
 - [2台目フルサイズ欲しい話](2nd-fullsize/index.md)
