@@ -16,6 +16,7 @@
 - [ダムの話](dum/index.md)
 
 ### 旅行系
+- [Best shot 2021](best-shot-2021/index.md)
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
