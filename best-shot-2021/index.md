@@ -2,7 +2,7 @@
 2021年は2020年12月に買ったNikon Z6を気に入って、ひたすらZのシステムを増やしつつ、コロナで遠出しづらいので近場で写真を撮りつつZの習熟をする、みたいな1年でした。機材の話は別でする予定ですが、先にこの1年に撮った写真でお気に入りを載せていきたいとおもいます。
 
 ## 稲毛海岸からの夕日
-<a href="https://flic.kr/p/2kWV6qF"><img src="img/inage_yuhi.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2kWV6qF"><img src="img/inage_yuhi.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>5月3日 千葉県千葉市 稲毛海岸公園</dd>
@@ -13,7 +13,7 @@
 カメラ仲間で成田空港に飛行機の写真を撮りに行った帰りに、夕日撮るという話で稲毛海岸寄って、着いて最初に撮った写真です。とても綺麗で夢中で撮ってたのであまり覚えていないのですが、後で見返してみると望遠レンズで撮った、この最初のショットが一番気に入ってます。夢中で撮ってたので、特に絞りが雑で開放なんですが、今思うともうちょい絞ってもよかったかもしれないですね。
 
 ## 久津間海岸海中電柱
-<a href="https://flic.kr/p/2mj2qCb"><img src="img/kaichu_denchu.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2mj2qCb"><img src="img/kaichu_denchu.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>8月22日 千葉県木更津市 久津間海岸</dd>
@@ -24,7 +24,7 @@
 大変暑い時期だったので、真っ昼間に遠征するのを避けて、近場で工場を撮りたくて木更津に向かい、君津製鉄所を撮るついでに撮った海中電柱です。後から見返してみると構図がよくできてる気がして割と気に入っていて、実際現地でも、「単に電柱ならんでるの見て終末感があってすごいいいけど、これどうやって纏めるんだよ」と思いつつ、ひたすら角度変えて試して一番よかったのがコレ、って感じでした。念を入れて被写界深度稼ぐためにギリギリまで絞った記憶があります。
 
 ## 狭隘な餘部
-<a href="https://flic.kr/p/2my1xzr"><img src="img/amarube.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2my1xzr"><img src="img/amarube.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>10月2日 兵庫県 余部</dd>
@@ -35,7 +35,7 @@
 コロナが落ち着いたし遠出したいとなって、餘部鉄橋を撮りに行って、撮ってきたのがコレです。撮影ポイントがかなり奥まったところにあって、蜘蛛の巣押し退けたりして大変だったのを覚えています。海、狭隘な市街地、餘部鉄橋、山々、列車を、50mmで一通り構図に収めることができて、大変満足度が高かったです。ただ今思うとPLフィルター欲しかったですね…。
 
 ## 霧積湖と紅葉
-<a href="https://flic.kr/p/2mGLLLL"><img src="img/kirizumi_lake.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2mGLLLL"><img src="img/kirizumi_lake.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>11月3日 群馬県安中市 霧積ダム</dd>
@@ -46,7 +46,7 @@
 険しいルートであるため、新幹線ができた今は2本の廃線が残るのみになっている、信越本線の碓氷峠区間を撮ったついでに、霧積ダムの写真を撮りに来たら、ダム湖である霧積湖の湖面、湖底、山の紅葉、稜線が層になって見えて面白かったので撮った写真です。夕方なので若干日が落ちかけてて暗かったりするところもありますが、良い光景でした。紅葉撮るの楽しいですね。
 
 ## 岸壁と紅葉
-<a href="https://flic.kr/p/2mLLuvA"><img src="img/koyo_gake.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2mLLuvA"><img src="img/koyo_gake.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>11月21日 群馬県みどり市 渡良瀬川(沢入駅ふれあいパーク)</dd>
@@ -57,7 +57,7 @@
 わたらせ渓谷鐵道の写真を撮りたくて、草木トンネルを抜けてすぐに、草木ダム湖である草木湖を越える橋梁、黒板石川橋梁を撮影ポイントに定めてウロウロして、満足して移動する沢入駅で列車を待つ間に岸壁で撮った写真です。暗めの真っ赤な紅葉と岸壁が、あとで見返してみるとすごいマッチしているように感じたので、ちょっとクロップしつつ色を弄って出したのがこれです。こういう暗めの写真が好きですね…。
 
 ## 武甲山の工場
-<a href="https://flic.kr/p/2mSmjwQ"><img src="img/buko_factory.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2mSmjwQ"><img src="img/buko_factory.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>12月18日 埼玉県秩父市 黒谷 から 横瀬町 三菱マテリアルのセメント工場</dd>
@@ -70,7 +70,7 @@
 構図作ったのではなく、本当に偶然撮れちゃった写真なのはちょい反省としてはあります。最近大判カメラでたまに撮りに行くんですが、大判カメラはこういう「ちょっと撮ってみるか」ができないので、現地で「これを撮ればいい写真ができる!」みたいな確信がないと撮れなくて、このパターンの写真は残らないという話になるんですよね…。
 
 ## 夕焼けの親鼻鉄橋貨物
-<a href="https://flic.kr/p/2mSjq5M"><img src="img/oyahana_kamotsu.jpg" width="1200px"></a>
+<a target="_blank" href="https://flic.kr/p/2mSjq5M"><img src="img/oyahana_kamotsu.jpg" width="1200px"></a>
 
 <dl>
 <dt>環境</dt><dd>12月18日 埼玉県長瀞町 秩父鉄道親鼻鉄橋</dd>
@@ -87,6 +87,7 @@ Twitterで絵師が「今年の4枚」という感じで描いた絵上げてる
 dt {
     float: left;
     clear: left;
+    margin-top: 0px;
     margin-right: 10px;
     font-weight: bold;
 }
