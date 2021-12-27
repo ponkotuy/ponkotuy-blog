@@ -22,6 +22,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [Best機材2021](best-lens-2021/index.md)
 - [XQDとCFexpressの比較](xqd-cfexpress/index.md)
 - [EOS RPをレンタルした話](eos-rp/index.md)
 - [α7C/α7IIIをレンタルした話](a7c-sp/index.md)
