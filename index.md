@@ -22,6 +22,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [カメラ自動転送機能比較](camera-sp/index.md)
 - [Best機材2021](best-lens-2021/index.md)
 - [XQDとCFexpressの比較](xqd-cfexpress/index.md)
 - [EOS RPをレンタルした話](eos-rp/index.md)
@@ -32,7 +33,6 @@
 - [Z6でNikon入門とフルサイズ入門した話](z6/index.md)
 - [広角レンズのすすめ](lens-wide-angle/index.md)
 - [Z50をレンタルした話](z50/index.md)
-- [カメラ自動転送機能比較](camera-sp/index.md)
 - [広角ズームレンズ調査](wide-lens/index.md)
 - [フルサイズカメラ調査](fullsize/index.md)
 - [オーディオ機器を色々買った話](audio/index.md)
