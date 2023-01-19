@@ -22,6 +22,7 @@
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+- [Best機材2022](best-lens-2022/index.md)
 - [カメラ自動転送機能比較](camera-sp/index.md)
 - [Best機材2021](best-lens-2021/index.md)
 - [XQDとCFexpressの比較](xqd-cfexpress/index.md)
