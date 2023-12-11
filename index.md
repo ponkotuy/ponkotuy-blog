@@ -3,6 +3,9 @@
 ## なにこれ
 ぽんこつがGitHubで書いたblogリストです
 
+### 生活
+- [家から締め出されないために](avoid-locked-out/index.md)
+
 ### プログラミング系
 - [NetworkManagerでl2tp over IPsec](nm-l2tp-ipsec/index.md)
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
