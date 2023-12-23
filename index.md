@@ -4,6 +4,7 @@
 ぽんこつがGitHubで書いたblogリストです
 
 ### 生活
+- [Bestゲーム2023](best-game-2023/index.md)
 - [家から締め出されないために](avoid-locked-out/index.md)
 
 ### プログラミング系
