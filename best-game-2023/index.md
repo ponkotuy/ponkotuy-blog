@@ -5,7 +5,7 @@ SteamとSwitchでほぼ100%ゲームやってるんですが、この2社は2023
 
 やるゲームの情報源は2パターンあって、Twitter/Mastodonの近しい知り合いがやってるゲーム、お勧めするゲームのパターンと、Steamのレコメンドとかクロールに近い探し方の2パターン。Factorioというゲームに人生変えられるほどハマってしまったけど、周りにプレイヤーがあまりおらんので、類似のゲームを探すなら大体後者で探すことになります。
 
-Steam: https://s.team/y23/kfmwphn?l=japanese
+Steam: [https://s.team/y23/kfmwphn?l=japanese](https://s.team/y23/kfmwphn?l=japanese)
 
 ![Steam2023](steam.png)
 
