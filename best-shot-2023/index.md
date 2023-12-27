@@ -32,7 +32,6 @@ Nikon Zで旅行先の風景をメインに撮ってる人です。写真を見�
 <dt>機材</dt><dd>Z7 + Z 70-200/2.8</dd>
 <dt>設定</dt><dd>200mm f/8.0 1/320 ISO100</dd>
 </dl>
-<a target="_blank" href=""><img src="images/" /></a>
 
 ## 竜王の滝
 <a target="_blank" href="https://flic.kr/p/2oPy7Ss"><img src="images/ryuo_fall.jpg" /></a>
