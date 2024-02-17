@@ -22,6 +22,7 @@
 - [ダムの話](dum/index.md)
 
 ### 旅行系
+- [良い写真を撮る方法](good-photo/index.md)
 - [Best shot 2023](best-shot-2023/index.md)
 - [Best shot 2021](best-shot-2021/index.md)
 - [横浜周辺観光地巡り](yokohama/index.md)
