@@ -11,7 +11,7 @@
 
 ### プログラミング系
 
-- [Mastodon で迷惑ユーザを自動 block するツール indra](indra/index.md)
+- [Mastodonで迷惑ユーザを自動blockするツールindra](indra/index.md)
 - [NetworkManagerでl2tp over IPsec](nm-l2tp-ipsec/index.md)
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
