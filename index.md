@@ -1,17 +1,22 @@
 # ponkotuyのblog
 
 ## なにこれ
+
 ぽんこつがGitHubで書いたblogリストです
 
 ### 生活
+
 - [Bestゲーム2023](best-game-2023/index.md)
 - [家から締め出されないために](avoid-locked-out/index.md)
 
 ### プログラミング系
+
+- [Mastodon で迷惑ユーザを自動 block するツール indra](indra/index.md)
 - [NetworkManagerでl2tp over IPsec](nm-l2tp-ipsec/index.md)
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
 
 ### ダム
+
 - [南摩ダム](dam-202012/07-nanma/index.md)
 - [足尾砂防堰堤](dam-202012/05-ashio/index.md)
 - [八ッ場ダム](dam-202012/04-yamba/index.md)
@@ -22,12 +27,14 @@
 - [ダムの話](dum/index.md)
 
 ### 旅行系
+
 - [良い写真を撮る方法](good-photo/index.md)
 - [Best shot 2023](best-shot-2023/index.md)
 - [Best shot 2021](best-shot-2021/index.md)
 - [横浜周辺観光地巡り](yokohama/index.md)
 
 ### ガジェット/カメラ
+
 - [Best機材2023](best-lens-2023/index.md)
 - [Best機材2022](best-lens-2022/index.md)
 - [カメラ自動転送機能比較](camera-sp/index.md)
@@ -48,4 +55,5 @@
 - [遠征ガジェット](gudget/index.md)
 
 ### ボドゲ
+
 - [バラージ解説](barrage/index.md)
