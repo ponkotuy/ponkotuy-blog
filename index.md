@@ -36,6 +36,7 @@
 
 ### ガジェット/カメラ
 
+- [カメラを買う理由](camera-vs-sp/index.md)
 - [Best機材2023](best-lens-2023/index.md)
 - [Best機材2022](best-lens-2022/index.md)
 - [カメラ自動転送機能比較](camera-sp/index.md)
