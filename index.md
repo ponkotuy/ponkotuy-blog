@@ -6,6 +6,7 @@
 
 ### 生活
 
+- [日付変更線・本初子午線・赤道のうち一番長いものはどれか](longest-latlng/index.md)
 - [Bestゲーム2023](best-game-2023/index.md)
 - [家から締め出されないために](avoid-locked-out/index.md)
 
