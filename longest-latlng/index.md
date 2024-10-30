@@ -2,7 +2,7 @@
 
 という問題をMastodonで出したのですが回答編です
 
-https://social.mikutter.hachune.net/@ponkotuy/113395633210452771
+[https://social.mikutter.hachune.net/@ponkotuy/113395633210452771](https://social.mikutter.hachune.net/@ponkotuy/113395633210452771)
 
 ## 言葉の意味
 
