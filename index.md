@@ -30,6 +30,7 @@
 
 ### 旅行系
 
+- [Darktableで現像入門](darktable/index.md)
 - [良い写真を撮る方法](good-photo/index.md)
 - [Best shot 2023](best-shot-2023/index.md)
 - [Best shot 2021](best-shot-2021/index.md)
