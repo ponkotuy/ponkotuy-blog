@@ -6,6 +6,7 @@
 
 ### 生活
 
+- [Bestゲーム2024](best-game-2024/index.md)
 - [ポケポケのピジョットとライチュウが強かった話](pokepocket/index.md)
 - [日付変更線・本初子午線・赤道のうち一番長いものはどれか](longest-latlng/index.md)
 - [Bestゲーム2023](best-game-2023/index.md)
