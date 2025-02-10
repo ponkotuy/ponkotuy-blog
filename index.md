@@ -31,6 +31,7 @@
 
 ### 旅行系
 
+- [関西-名古屋の道路が全封鎖された日に車で突っ込んだ話](kansai-snow/index.md)
 - [Darktableで現像入門](darktable/index.md)
 - [良い写真を撮る方法](good-photo/index.md)
 - [Best shot 2023](best-shot-2023/index.md)
