@@ -6,6 +6,7 @@
 
 ### 生活
 
+- [一人暮らし自炊入門](cooking-oneself/index.md)
 - [Bestゲーム2024](best-game-2024/index.md)
 - [ポケポケのピジョットとライチュウが強かった話](pokepocket/index.md)
 - [日付変更線・本初子午線・赤道のうち一番長いものはどれか](longest-latlng/index.md)
