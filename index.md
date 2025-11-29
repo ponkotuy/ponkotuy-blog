@@ -42,6 +42,7 @@
 
 ### ガジェット/カメラ
 
+- [撮影入門](camera-guide/index.md)
 - [カメラを買う理由](camera-vs-sp/index.md)
 - [Best機材2023](best-lens-2023/index.md)
 - [Best機材2022](best-lens-2022/index.md)
