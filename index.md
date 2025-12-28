@@ -42,6 +42,7 @@
 
 ### ガジェット/カメラ
 
+- [レンズ使用統計2025](camera-stats-2025/index.md)
 - [Best機材2025](best-lens-2025/index.md)
 - [撮影入門](camera-guide/index.md)
 - [カメラを買う理由](camera-vs-sp/index.md)
