@@ -6,6 +6,7 @@
 
 ### 生活
 
+- [Bestゲーム2025](best-game-2025/index.md)
 - [一人暮らし自炊入門](cooking-oneself/index.md)
 - [Bestゲーム2024](best-game-2024/index.md)
 - [ポケポケのピジョットとライチュウが強かった話](pokepocket/index.md)
