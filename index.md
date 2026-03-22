@@ -6,6 +6,7 @@
 
 ### 生活
 
+- [Bestゲーム2025](best-game-2025/index.md)
 - [一人暮らし自炊入門](cooking-oneself/index.md)
 - [Bestゲーム2024](best-game-2024/index.md)
 - [ポケポケのピジョットとライチュウが強かった話](pokepocket/index.md)
@@ -15,6 +16,7 @@
 
 ### プログラミング系
 
+- [OverpassAPIで日本の道路を取得する](overpass-api/index.md)
 - [indraを作った話](indra/index.md)
 - [NetworkManagerでl2tp over IPsec](nm-l2tp-ipsec/index.md)
 - [ScalaとJavaCVでHuMomentsを取得する](scala-humoments/index.md)
@@ -43,6 +45,7 @@
 ### ガジェット/カメラ
 
 - [フルサイズ定番レンズカタログ](lens-catalog/index.md)
+- [レンズ使用統計2025](camera-stats-2025/index.md)
 - [Best機材2025](best-lens-2025/index.md)
 - [撮影入門](camera-guide/index.md)
 - [カメラを買う理由](camera-vs-sp/index.md)
