@@ -44,6 +44,7 @@
 
 ### ガジェット/カメラ
 
+- [写真容量の削減方法](reduce-photo/index.md)
 - [フルサイズ定番レンズカタログ](lens-catalog/index.md)
 - [レンズ使用統計2025](camera-stats-2025/index.md)
 - [Best機材2025](best-lens-2025/index.md)
