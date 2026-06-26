@@ -1,0 +1,21 @@
+services:
+  jekyll:
+    image: ruby:3.3
+    user: "${UID:-1000}:${GID:-1000}"
+    working_dir: /srv/jekyll
+    command: >
+      bash -lc "bundle install &&
+      bundle exec jekyll serve
+      --host 0.0.0.0
+      --port 4000
+      --livereload
+      --force_polling"
+    environment:
+      BUNDLE_APP_CONFIG: /srv/jekyll/.bundle
+      BUNDLE_PATH: /srv/jekyll/vendor/bundle
+      JEKYLL_ENV: development
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
